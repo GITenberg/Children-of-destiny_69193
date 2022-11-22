@@ -10,6 +10,9 @@ contributor:
     deathdate: 1917
     gutenberg_agent_id: '7859'
     url: http://www.gutenberg.org/2009/agents/7859
+covers:
+- cover_type: archival
+  image_path: 69193-h/images/cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -24,6 +27,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69193#Children-of-destiny
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69193'
